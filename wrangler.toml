@@ -1,5 +1,5 @@
 name = "m3u8proxy-worker"
 type = "javascript"
-account_id = "your-cloudflare-account-id"
+account_id = "0573bdde8091aca240abb6292ea2ca2e"
 workers_dev = true
 compatibility_date = "2025-02-24"
